@@ -21,6 +21,10 @@ env/
 # Environment variables
 .env
 .env.local
+**/.env
+
+# ADK
+.adk/
 
 # OS
 .DS_Store
